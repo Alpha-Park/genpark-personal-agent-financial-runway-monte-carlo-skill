@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-financial-runway-monte-carlo-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Financial Runway Monte Carlo - Zero-dependency stochastic cash runway modeler, Box-Muller Gaussian Monte Carlo simulation, and safe discretionary burn budget calculator.",
+  "tools": [
+    "simulate_cash_runway_monte_carlo",
+    "compute_safe_discretionary_burn_budget",
+    "calculate_emergency_liquidity_buffer_days"
+  ]
+}
